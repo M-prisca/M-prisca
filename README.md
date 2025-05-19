@@ -5,7 +5,7 @@
 
 ---
 
-## 💡 About Me
+## About Me
 - 🎓 AUCA Class of 2026 | Member of The GYM Software Engineering Traineeship
   
 - 🔭 Currently working on a bunch of project for school purpose such as :
@@ -16,12 +16,12 @@
   > to be Shared soon!
     
 - 🌱 Learning: Docker, Linux Server Security, JavaScript (ES6+), typeScript, react and Full-Stack Web Dev 
-- 🛠️ Skills: HTML, CSS, JavaScript, java, PHP, Linux,Git, PostgreSQL, MariaDB, Docker
-- 🧠 Future goals: Master DevOps, Build scalable apps, and Launch tech projects in Africa
+- Skills: HTML, CSS, JavaScript, java, PHP, Linux,Git, PostgreSQL, MariaDB, Docker
+- Future goals: Master DevOps, Build scalable apps, and Launch tech projects in Africa
 
 ---
 
-## 🔨 Tech Stack
+## Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -44,11 +44,19 @@
 
 ---
 
-## 📌 Pinned Projects
+## 📌Projects
+
+👤 **[Fetch Users to See a Model](https://github.com/Prisc2005/fetch-users-to-see-a-model)**  
+A JavaScript project that fetches user data from an API and displays it in a clean, responsive UI. Great for learning about fetch(), DOM manipulation, and dynamic rendering.
+
+🔧 **[Git Exercises Solution](https://github.com/Prisc2005/git-exercises-solution)**  
+A collection of solutions for common Git tasks and exercises — perfect for beginners and those looking to sharpen their Git workflow.
+
+
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prisca2005&show_icons=true&theme=merko" width="48%" />
@@ -57,7 +65,7 @@
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/uwera-masereli-prisca/)
 - 💬 [Email](priscamasereli@gmail.com)
