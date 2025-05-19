@@ -52,6 +52,9 @@ A JavaScript project that fetches user data from an API and displays it in a cle
 🔧 **[Git Exercises Solution](https://github.com/Prisc2005/git-exercises-solution)**  
 A collection of solutions for common Git tasks and exercises — perfect for beginners and those looking to sharpen their Git workflow.
 
+🌐 **[Group Web Project – The gym](https://github.com/Jess-xca/Web_Project_G4)**  
+A collaborative dynamic portfolio system built with PHP, MariaDB, and Docker. Showcases team skills in full-stack development, database design, and containerized deployment.
+
 
 
 ---
