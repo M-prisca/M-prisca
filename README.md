@@ -59,10 +59,12 @@ A collaborative dynamic portfolio system built with PHP, MariaDB, and Docker. Sh
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-prisca&show_icons=true&theme=merko" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-prisca&layout=compact&theme=merko" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-prisca&show_icons=true&theme=merko" width="30%" />
+  <img src="https://streak-stats.demolab.com/?user=M-prisca&theme=merko" width="38%" alt="GitHub Streak"  width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-prisca&layout=compact&theme=merko" width="30%" />  
+</div>
+
 
 ---
 
