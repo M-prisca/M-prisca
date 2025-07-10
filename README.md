@@ -9,8 +9,8 @@
 - 🎓 AUCA Class of 2026 | Member of The GYM Software Engineering Traineeship
   
   - Currently working on a bunch of project for school purpose such as :  
-    - 📊 **AI Tutor for Personalized Learning** – Smart tutor using Python, Django, and ML  
-    - 🌐 **Land Management System** – Web-based system for organizing land data using Java,react,ES6, Tailwindcss, Postman & PostgreSQ  
+    -  **AI Tutor for Personalized Learning** – Smart tutor using Python, Django, and ML  
+    -  **Land Management System** – Web-based system for organizing land data using Java,react,ES6, Tailwindcss, Postman & PostgreSQ  
   > to be Shared soon!
     
 - Learning: JavaScript (ES6+), typeScript, react and Full-Stack Web Dev 
@@ -42,15 +42,15 @@
 
 ---
 
-## 📌Projects
+## Projects
 
-👤 **[Fetch Users to See a Model](https://github.com/Prisc2005/fetch-users-to-see-a-model)**  
+ **[Fetch Users to See a Model](https://github.com/M-prisca/Fetch-data-to-view-modal)**  
 A JavaScript project that fetches user data from an API and displays it in a clean, responsive UI. Great for learning about fetch(), DOM manipulation, and dynamic rendering.
 
-🔧 **[Git Exercises Solution](https://github.com/Prisc2005/git-exercises-solution)**  
+ **[Git Exercises Solution](https://github.com/M-prisca/git-exercises-solution)**  
 A collection of solutions for common Git tasks and exercises — perfect for beginners and those looking to sharpen their Git workflow.
 
-🌐 **[Group Web Project – The gym](https://github.com/Jess-xca/Web_Project_G4)**  
+ **[Group Web Project – The gym](https://github.com/Jess-xca/Web_Project_G4)**  
 A collaborative dynamic portfolio system built with PHP, MariaDB, and Docker. Showcases team skills in full-stack development, database design, and containerized deployment.
 
 
