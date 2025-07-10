@@ -47,7 +47,7 @@
  **[Fetch Users to See a Model](https://github.com/M-prisca/Fetch-data-to-view-modal)**  
 A JavaScript project that fetches user data from an API and displays it in a clean, responsive UI. Great for learning about fetch(), DOM manipulation, and dynamic rendering.
 
- **[Git Exercises Solution](https://github.com/M-prisca/git-exercises-solution)**  
+ **[Git Exercises Solution](https://github.com/M-prisca/The-Gym-Git-Exercise-Solutions-)**  
 A collection of solutions for common Git tasks and exercises — perfect for beginners and those looking to sharpen their Git workflow.
 
  **[Group Web Project – The gym](https://github.com/Jess-xca/Web_Project_G4)**  
