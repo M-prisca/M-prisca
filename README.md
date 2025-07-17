@@ -8,13 +8,13 @@
 ## About Me
 - 🎓 AUCA Class of 2026 | Member of The GYM Software Engineering Traineeship
   
-  - Currently working on a bunch of project for school purpose such as :  
+  - Currently working on a bunch of projects for school purposes, such as :  
     -  **AI Tutor for Personalized Learning** – Smart tutor using Python, Django, and ML  
-    -  **Land Management System** – Web-based system for organizing land data using Java,react,ES6, Tailwindcss, Postman & PostgreSQ  
-  > to be Shared soon!
+    -  **Land Management System** – Web-based system for organizing land data using Java, React, ES6, Tailwindcss, Postman & PostgreSQL  
+  > to be shared soon!
     
-- Learning: JavaScript (ES6+), typeScript, react and Full-Stack Web Dev 
-- Skills: HTML, CSS, JavaScript, java, PHP, Linux,Git, PostgreSQL, MariaDB
+- Learning: JavaScript (ES6+), typeScript, react, and Full-Stack Web Dev 
+- Skills: HTML, CSS, JavaScript, Java, PHP, Linux, Git, PostgreSQL, MariaDB
 - Future goals: Master DevOps, Build scalable apps, and Launch tech projects in Africa
 
 ---
@@ -60,9 +60,9 @@ A collaborative dynamic portfolio system built with PHP, MariaDB, and Docker. Sh
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-prisca&show_icons=true&theme=merko" width="30%" />
-  <img src="https://streak-stats.demolab.com/?user=M-prisca&theme=merko" width="38%" alt="GitHub Streak"  width="30%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-prisca&layout=compact&theme=merko" width="30%" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=M-prisca&show_icons=true&theme=merko" width="40%" />
+<!--   <img src="https://streak-stats.demolab.com/?user=M-prisca&theme=merko" width="38%" alt="GitHub Streak"  width="30%" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-prisca&layout=compact&theme=merko" width="40%" />  
 </div>
 
 
