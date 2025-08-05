@@ -9,7 +9,6 @@
 - 🎓 AUCA Class of 2026 | Member of The GYM Software Engineering Traineeship
   
   - Currently working on a bunch of projects for school purposes, such as :  
-    -  **AI Tutor for Personalized Learning** – Smart tutor using Python, Django, and ML  
     -  **Land Management System** – Web-based system for organizing land data using Java, React, ES6, Tailwindcss, Postman & PostgreSQL  
   > to be shared soon!
     
