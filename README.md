@@ -9,9 +9,6 @@
 - 🎓 AUCA Class of 2026 | Member of The GYM Software Engineering Traineeship
   
   - Currently working on a bunch of projects for school purposes, such as :  
-    -  **Land Management System** – Web-based system for organizing land data using Java, React, ES6, Tailwindcss, Postman & PostgreSQL  
-  > to be shared soon!
-    
 - Learning: JavaScript (ES6+), typeScript, react, and Full-Stack Web Dev 
 - Skills: HTML, CSS, JavaScript, Java, PHP, Linux, Git, PostgreSQL, MariaDB
 - Future goals: Master DevOps, Build scalable apps, and Launch tech projects in Africa
