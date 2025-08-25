@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Prisca!
+# Hi there 👋, I'm Prisca
 
 👩🏾‍💻 A Software Engineering student at [Adventist University of Central Africa (AUCA)](https://auca.ac.rw), Rwanda  
   - Passionate about tech, continuous learning, and building impactful software 
