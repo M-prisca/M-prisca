@@ -9,7 +9,6 @@
 - 🎓 AUCA Class of 2026 | Member of The GYM Software Engineering Traineeship
 - Learning: JavaScript (ES6+), typeScript, react, and Full-Stack Web Dev 
 - Skills: HTML, CSS, JavaScript, Java, PHP, Linux, Git, PostgreSQL, MariaDB
-- Future goals: Master DevOps, Build scalable apps, and Launch tech projects in Africa
 
 ---
 
